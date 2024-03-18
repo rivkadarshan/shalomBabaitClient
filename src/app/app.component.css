@@ -1,0 +1,11 @@
+
+:host ::ng-deep app-header {
+  position: fixed;
+  z-index: 1000; 
+  width: 100%;
+  height: 8rem;
+}
+:host ::ng-deep app-advertising {
+  height: 100% ;/* גובה המסך פחות 8 רמ */
+  width: 100%;
+}

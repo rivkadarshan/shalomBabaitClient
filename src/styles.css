@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body {background-color:#022F39;color: white; direction: rtl;}
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.title{
+   color: #BB7E2B;
+}
+.consultationAppointmentButton{
+   background-color: #BB7E2B;
+   border: none;
+   border-radius: 0rem 5.3rem 0rem 0rem;
+   height: 8rem;
+   width: 32rem;
+ }
+ a{
+   color: white;
+ }
